@@ -35,7 +35,7 @@
 </h1>
 
 
-### Autor
+### Autora
 ---
 
 <a href="https://www.linkedin.com/in/paloma-fernandes-santos-8a4465117/">
