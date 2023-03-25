@@ -6,7 +6,8 @@
   Covid
 </h1>
 
-### Fazer um dashboard com as seguintes especificaçãoes:
+
+### Especificaçãoes requisitadas:
 
 - [x] Média movel de casos e mortes: 
 
@@ -25,3 +26,10 @@
         - Taxa de mortalidade
 
 
+### Telas desenvolvidas:
+
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/palomafersants/dataviz/main/Covid/imagens/Covid3.png"/>
+<img src="https://raw.githubusercontent.com/palomafersants/dataviz/main/Covid/imagens/Covid2.png"/>
+<img src="https://raw.githubusercontent.com/palomafersants/dataviz/main/Covid/imagens/Covid1.png"/>
+</h1>
