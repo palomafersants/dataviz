@@ -25,6 +25,12 @@
         - Taxa de letalidade
         - Taxa de mortalidade
 
+### Paleta de cores:
+
+A paleta foi feita seguindo as cores da empresa que sugeriu o desafio.
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/palomafersants/dataviz/main/Covid/imagens/paleta.png"/>
+</h1>
 
 ### Telas desenvolvidas:
 
