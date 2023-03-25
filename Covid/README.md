@@ -40,6 +40,9 @@ A paleta foi feita seguindo as cores da empresa que sugeriu o desafio.
 <img src="https://raw.githubusercontent.com/palomafersants/dataviz/main/Covid/imagens/Covid1.png"/>
 </h1>
 
+Ferramentas:
+
+<img src="https://raw.githubusercontent.com/palomafersants/dataviz/main/Covid/imagens/ferramentas.png"/>
 
 ### Autora
 ---
